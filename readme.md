@@ -12,5 +12,3 @@ Enjoy!
 
 Other possible HTML linting rules can be found [here](https://htmlhint.com/docs/user-guide/list-rules).
 You can find the details on the NPM package [here](https://www.npmjs.com/package/htmlhint).
-
-Find
