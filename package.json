@@ -4,8 +4,8 @@
   "description": "htmlhint example",
   "main": "index.js",
   "scripts": {
-	"test": "echo \"Error: no test specified\" && exit 1",
-	"lint:html": "htmlhint \"./**/*.html\""
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:html": "htmlhint \"./**/*.html\""
   },
   "author": "Joshua Anderson",
   "license": "ISC",
